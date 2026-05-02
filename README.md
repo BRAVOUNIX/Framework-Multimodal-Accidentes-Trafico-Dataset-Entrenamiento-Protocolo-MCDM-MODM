@@ -586,9 +586,10 @@ Si utilizas este framework en tu investigación, por favor cita:
   title  = {Framework Multimodal para el Análisis de Accidentes de Tráfico:
             Construcción del Dataset, Entrenamiento por Fases y Configuración
             de Rendimiento y Robustez mediante el Protocolo Híbrido MCDM-MODM},
-  author = {Antonio},
-  year   = {2024},
-  school = {Universidad},
+  author = {Luis Antonio Bravo Roldan},
+  email   = {bravounix@gmail.com},
+  year   = {2026},
+  school = {Universidad Nacional Mayor de San Marcos},
   type   = {Tesis Doctoral}
 }
 ```
@@ -615,7 +616,7 @@ Este proyecto está bajo la licencia MIT. Ver archivo [LICENSE](LICENSE) para m�
 
 **Framework Multimodal para el Análisis de Accidentes de Tráfico**
 
-*Investigación doctoral — Lima, Perú · 2024*
+*Investigación doctoral — Lima, Perú · 2026*
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C)](https://pytorch.org)
