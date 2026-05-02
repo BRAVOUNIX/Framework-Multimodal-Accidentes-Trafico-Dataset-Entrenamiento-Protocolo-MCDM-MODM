@@ -434,10 +434,10 @@ bash csvreporte.sh diagnostic_results/fases_results_F1F2F3F4.csv all
 
 ### 3 — Resumen de Selección y Confirmación
 
-<img src="F3.jpg," alt="Resumen de seleccion modelos VLM y LLM con combinaciones totales" width="800"/>
-<img src="F4.jpg," alt="Resumen de seleccion modelos VLM y LLM con combinaciones totales" width="800"/>
-<img src="F5.jpg," alt="Resumen de seleccion modelos VLM y LLM con combinaciones totales" width="800"/>
-<img src="F6.jpg," alt="Resumen de seleccion modelos VLM y LLM con combinaciones totales" width="800"/>
+<img src="F3.jpg" alt="Resumen de seleccion modelos VLM y LLM con combinaciones totales" width="800"/>
+<img src="F4.jpg" alt="Resumen de seleccion modelos VLM y LLM con combinaciones totales" width="800"/>
+<img src="F5.jpg" alt="Resumen de seleccion modelos VLM y LLM con combinaciones totales" width="800"/>
+<img src="F6.jpg" alt="Resumen de seleccion modelos VLM y LLM con combinaciones totales" width="800"/>
 
 > Resumen previo a la ejecución mostrando los modelos seleccionados por fase, total de combinaciones a evaluar (320) y número total de ejecuciones (320 × 100 imágenes). La configuración óptima S1 emerge de este espacio de búsqueda exhaustivo.
 
