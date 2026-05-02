@@ -137,7 +137,8 @@ ulimit -a
 ```bash
 python3 -c "import nltk; nltk.download('wordnet'); nltk.download('omw-1.4'); nltk.download('punkt')"
 ```
-
+### Descargar recursos Dataset Multimodal
+https://drive.google.com/drive/folders/1XVuiN2GVj1LWmf8450jRN5kozKKP11f9?usp=drive_link
 ---
 
 ## 📁 Estructura del Proyecto
